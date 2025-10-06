@@ -1,0 +1,5 @@
+==> 2025-10-05 20:27:40 <==
+# cmd: /Users/tingyiwei/miniforge3/lib/python3.12/site-packages/conda/__main__.py create --yes --prefix .conda python=3.11
+# conda version: 25.3.0
++conda-forge/osx-arm64::bzip2-1.0.8-hd037594_8
+# update specs: ['python=3.11']
